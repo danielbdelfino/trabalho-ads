@@ -1,4 +1,4 @@
-package br.com.ciceroednilson;
+package br.com.servicoads;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
